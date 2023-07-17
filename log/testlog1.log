@@ -1,0 +1,74 @@
+2023-07-14 19:20:44,984 [main] INFO ParaBank - URL is Open
+2023-07-14 19:20:45,137 [main] INFO ParaBank - Entered username
+2023-07-14 19:20:45,255 [main] INFO ParaBank - Entered Password
+2023-07-14 19:47:18,523 [main] INFO ParaBank - URL is Open
+2023-07-14 19:47:18,660 [main] INFO ParaBank - Entered username
+2023-07-14 19:47:18,747 [main] INFO ParaBank - Entered Password
+2023-07-14 19:48:39,776 [main] INFO ParaBank - URL is Open
+2023-07-14 19:48:39,893 [main] INFO ParaBank - Entered username
+2023-07-14 19:48:39,988 [main] INFO ParaBank - Entered Password
+2023-07-14 21:00:04,829 [main] INFO ParaBank - URL is Open
+2023-07-14 21:00:05,062 [main] INFO ParaBank - Entered username
+2023-07-14 21:00:05,163 [main] INFO ParaBank - Entered Password
+2023-07-16 09:26:10,162 [main] INFO ParaBank - URL is Open
+2023-07-16 09:26:10,888 [main] INFO ParaBank - Entered username
+2023-07-16 09:26:11,076 [main] INFO ParaBank - Entered Password
+2023-07-16 10:09:00,057 [main] INFO ParaBank - URL is Open
+2023-07-16 10:09:00,198 [main] INFO ParaBank - Entered username
+2023-07-16 10:09:00,289 [main] INFO ParaBank - Entered Password
+2023-07-16 10:11:16,679 [main] INFO ParaBank - URL is Open
+2023-07-16 10:11:16,793 [main] INFO ParaBank - Entered username
+2023-07-16 10:11:16,884 [main] INFO ParaBank - Entered Password
+2023-07-16 12:25:41,335 [main] INFO ParaBank - URL is Open
+2023-07-16 12:25:41,743 [main] INFO ParaBank - user name provided
+2023-07-16 12:25:42,167 [main] INFO ParaBank - password provided
+2023-07-16 12:25:46,934 [main] INFO ParaBank - URL is Open
+2023-07-16 12:25:47,045 [main] INFO ParaBank - user name provided
+2023-07-16 12:25:47,187 [main] INFO ParaBank - password provided
+2023-07-16 12:25:47,994 [main] INFO ParaBank - URL is Open
+2023-07-16 12:25:48,120 [main] INFO ParaBank - user name provided
+2023-07-16 12:25:48,262 [main] INFO ParaBank - password provided
+2023-07-16 12:25:48,925 [main] INFO ParaBank - URL is Open
+2023-07-16 12:25:49,039 [main] INFO ParaBank - user name provided
+2023-07-16 12:25:49,177 [main] INFO ParaBank - password provided
+2023-07-16 12:25:50,011 [main] INFO ParaBank - URL is Open
+2023-07-16 12:25:50,130 [main] INFO ParaBank - user name provided
+2023-07-16 12:25:50,299 [main] INFO ParaBank - password provided
+2023-07-16 19:03:08,009 [main] INFO ParaBank - URL is OPen
+2023-07-16 19:07:59,475 [main] INFO ParaBank - URL is OPen
+2023-07-16 19:07:59,700 [main] INFO ParaBank - Entered username
+2023-07-16 19:07:59,859 [main] INFO ParaBank - Entered Password
+2023-07-16 19:15:58,054 [main] INFO ParaBank - URL is OPen
+2023-07-16 19:15:58,206 [main] INFO ParaBank - Entered username
+2023-07-16 19:15:58,330 [main] INFO ParaBank - Entered Password
+2023-07-16 19:16:00,197 [main] INFO ParaBank - validation started....
+2023-07-16 19:16:00,258 [main] INFO ParaBank - test case failed....
+2023-07-16 19:19:41,986 [main] INFO ParaBank - URL is OPen
+2023-07-16 19:19:42,149 [main] INFO ParaBank - Entered username
+2023-07-16 19:19:42,272 [main] INFO ParaBank - Entered Password
+2023-07-16 19:19:43,882 [main] INFO ParaBank - validation started....
+2023-07-16 19:19:43,904 [main] INFO ParaBank - test case failed....
+2023-07-16 19:33:39,283 [main] INFO ParaBank - URL is OPen
+2023-07-16 19:33:39,468 [main] INFO ParaBank - Entered username
+2023-07-16 19:33:39,600 [main] INFO ParaBank - Entered Password
+2023-07-16 19:34:28,526 [main] INFO ParaBank - URL is Open
+2023-07-16 19:34:28,684 [main] INFO ParaBank - Entered username
+2023-07-16 19:34:28,818 [main] INFO ParaBank - Entered Password
+2023-07-16 19:34:41,869 [main] INFO ParaBank - URL is Open
+2023-07-16 19:34:42,000 [main] INFO ParaBank - user name provided
+2023-07-16 19:34:42,129 [main] INFO ParaBank - password provided
+2023-07-16 19:34:44,452 [main] INFO ParaBank - URL is Open
+2023-07-16 19:34:44,543 [main] INFO ParaBank - user name provided
+2023-07-16 19:34:44,660 [main] INFO ParaBank - password provided
+2023-07-16 19:34:46,408 [main] INFO ParaBank - URL is Open
+2023-07-16 19:34:46,485 [main] INFO ParaBank - user name provided
+2023-07-16 19:34:46,598 [main] INFO ParaBank - password provided
+2023-07-16 19:34:48,391 [main] INFO ParaBank - URL is Open
+2023-07-16 19:34:48,466 [main] INFO ParaBank - user name provided
+2023-07-16 19:34:48,585 [main] INFO ParaBank - password provided
+2023-07-16 19:34:50,245 [main] INFO ParaBank - URL is Open
+2023-07-16 19:34:50,348 [main] INFO ParaBank - user name provided
+2023-07-16 19:34:50,509 [main] INFO ParaBank - password provided
+2023-07-16 19:34:58,232 [main] INFO ParaBank - URL is OPen
+2023-07-16 19:34:58,367 [main] INFO ParaBank - Entered username
+2023-07-16 19:34:58,493 [main] INFO ParaBank - Entered Password
